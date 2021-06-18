@@ -1,5 +1,15 @@
-# Getting Started with Create React App
+# Recipe Finder Application using React.js
+Responsive website built using React which displays recipes of the searched dish or ingredient. Displays the set of ingredients foe a particular recipe in the form of a pop up. Redirects to other websites for the full recipe. 
+<br><br>
+## Libraries Used:
+<ul>
+  <li><b>Styled Components</li>
+  <li>Material-UI</li>
+  <li>Axios</li>
+</ul>
+  
 
+<hr>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
