@@ -3,9 +3,18 @@ Responsive website built using React which displays recipes of the searched dish
 <br><br>
 ## Libraries Used:
 <ul>
-  <li><b>Styled Components</li>
-  <li>Material-UI</li>
-  <li>Axios</li>
+  <li>
+    <b>Styled Components</b><br>
+    CSS-in-JS. CSS selectors are scoped automatically to their component and styles are tightly coupled with their components, making it easier to use CSS. Avoids selector name collisions. 
+  </li>
+  <li>
+    <b>Material-UI</b><br>
+    Used for the dialog/popup to display the list of ingredients 
+  </li>
+  <li>
+    <b>Axios</b><br>
+     Used to make HTTP requests from the browser. Supports Promise API.
+  </li>
 </ul>
   
 
