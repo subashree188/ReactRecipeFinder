@@ -1,6 +1,7 @@
 # Recipe Finder Application using React.js
 Responsive website built using React which displays recipes of the searched dish or ingredient. Displays the set of ingredients foe a particular recipe in the form of a pop up. Redirects to other websites for the full recipe. 
 <br><br>
+
 ## Libraries Used:
 <ul>
   <li>
@@ -16,10 +17,16 @@ Responsive website built using React which displays recipes of the searched dish
      Used to make HTTP requests from the browser. Supports Promise API.
   </li>
 </ul>
-  
+<br><br>
+
+## Other Concepts Used:
+<ul>
+  <li><b>Food API setup using Edamam https://www.edamam.com/ </b></li>
+  <li><b>Debouncing</b><br>Avoids calling the API for each letter typed in search box and fetches API only after a gap of one second</li>
+  <li><b>Responsive UI using flex property</b></li>
+</ul>
 
 <hr>
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
