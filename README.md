@@ -23,7 +23,8 @@ Responsive website built using React which displays recipes based on the searche
 <ul>
   <li><b>Food API setup using Edamam https://www.edamam.com </b></li>
   <li><b>Debouncing</b><br>Avoids calling the API for each letter typed in search box and fetches API only after a gap of one second</li>
-  <li><b>Responsive UI using flex property</b></li>
+  <li><b>Responsive UI using CSS flex property</b></li>
+  <li><b>React Hooks</b><br>State Hooks used to update the list of recipes on each API call</li>
 </ul>
 
 <hr>
