@@ -2,6 +2,9 @@
 Responsive website built using React which displays recipes based on the searched ingredient or dish. Displays the set of ingredients for a particular recipe in the form of a pop up. Redirects to other websites for the full recipe. 
 <br><br>
 
+![Recipe Finder App](RecipeFinderApp.gif)
+<br><br>
+
 ## Libraries Used:
 <ul>
   <li>
@@ -26,6 +29,4 @@ Responsive website built using React which displays recipes based on the searche
   <li><b>Responsive UI using CSS flex property</b></li>
   <li><b>React Hooks</b><br>State Hooks used to update the list of recipes on each API call</li>
 </ul>
-<br><br>
 
-![Recipe Finder App](RecipeFinderApp.gif)
