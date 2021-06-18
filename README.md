@@ -20,7 +20,7 @@ Responsive website built using React which displays recipes based on the searche
      Used to make HTTP requests from the browser. Supports Promise API.
   </li>
 </ul>
-<br><br>
+<br>
 
 ## Other Concepts Used:
 <ul>
